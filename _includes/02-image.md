@@ -1,1 +1,1 @@
-![speedy development] (https://hermesengine.dev/img/undraw_fast_loading.svg)
+![speedy development] (https://docusaurus.io/img/oss_logo.png)
