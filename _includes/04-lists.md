@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. favorite 1
+2. favorite 2
+3. indented favorites
+   * ind 1
+   * ind 2
+
+ 
